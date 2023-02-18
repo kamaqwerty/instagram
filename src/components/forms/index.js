@@ -10,5 +10,6 @@ export const Forms = {
   Divider,
   AuthSubmit,
   Errors,
-  AuthNavigate
+  AuthNavigate,
+  
 };
